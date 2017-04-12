@@ -493,7 +493,7 @@ div.barcode {
 
 <div id="container">
 
-	<div id="instr_header">
+	<div id="">
 		<h1><?php echo $dadosboleto["identificacao"]; ?> <?php echo isset($dadosboleto["cpf_cnpj"]) ? $dadosboleto["cpf_cnpj"] : '' ?></h1>
 		<address><?php echo $dadosboleto["endereco"]; ?><br></address>
 		<address><?php echo $dadosboleto["cidade_uf"]; ?></address>

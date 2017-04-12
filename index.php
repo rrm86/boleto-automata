@@ -19,6 +19,18 @@
         <input type="" class="form-control" id="prazo" name="prazo" placeholder="Digite o prazo" required>
       </div>
     </div>
+   <div class="form-group">
+      <label class="control-label col-sm-2" for="email">CPF/CNPJ:</label>
+      <div class="col-sm-10">
+        <input type="" class="form-control" id="cpf/cnpj" name="cpf/cnpj" placeholder="CPF ou CNPJ" r$>
+      </div>
+    </div>
+    <div class="form-group">
+      <label class="control-label col-sm-2" for="numero">Numero:</label>
+      <div class="col-sm-10">
+        <input type="" class="form-control" id="numero" name="numero" placeholder="Número" r$>
+      </div>
+    </div>  
     <div class="form-group">
       <label class="control-label col-sm-2" for="pwd">Valor Cobrado:</label>
       <div class="col-sm-10">
